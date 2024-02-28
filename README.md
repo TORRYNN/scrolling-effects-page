@@ -16,7 +16,11 @@ Through building this landing page, I gained a deeper understanding of implement
 🌟 Experience the scrolling animations live:
 
 
-https://github.com/TORRYNN/scrolling-effects-page/assets/101942128/99c45e9b-7db3-4b37-a6ef-2683d952b65f
+
+
+
+
+https://github.com/TORRYNN/scrolling-effects-page/assets/101942128/57b248e6-7d71-4c26-9dbd-eadcdc7bc6c4
 
 
 
